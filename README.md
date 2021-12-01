@@ -16,3 +16,5 @@ Employees Eligible for Mentorship Program Among those Retiring: [mentorship_elig
 
 ## Summary
 Pewlett-Hackard's "Silver Tsunami" will leave 90,398 positions open as the employees ready for retirement start to leave. However, there are only 1,549 employees that are eligble to mentor the next generation of employees. This becomes about 1 mentor for every 58 open positions.
+### Additional Support
+Pewlett-Hackard would benefit from a query that gives a list of people that will be retiring at the end of the current year (and for each of the consecutive years). This will help them prioritize which positions to hire for (internally and externally). In addition, Pewlett-Hackard could also use a query that would group mentor-eligible employees with their position titles. This table would help the company plan their mentorship program: which mentors can take which mentees based on their roles, how many mentees a mentor can take, and also identify gaps of the areas that lack a mentor.
